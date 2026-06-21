@@ -1,0 +1,21 @@
+{
+  "name": "project-x",
+  "version": "1.0.0",
+  "description": "> **Blueprint Version:** 1.0.0  \r > **Platform Target:** Windows 10 / 11 (x64) — Desktop Only  \r > **Architecture:** AI-First Layered Microservices  \r > **Security Model:** Zero-Trust | End-to-End Encrypted  \r > **Classification:** Future-Proof Production Design Document",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/D8v1d777/Project-X.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/D8v1d777/Project-X/issues"
+  },
+  "homepage": "https://github.com/D8v1d777/Project-X#readme"
+}
